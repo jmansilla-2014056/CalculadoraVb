@@ -1,0 +1,15 @@
+c:\users\admin\documents\visual studio 2012\Projects\Calculator\Calculator\bin\Debug\Calculator.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+c:\users\admin\documents\visual studio 2012\Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+c:\users\admin\documents\visual studio 2012\Projects\Calculator\Calculator\bin\Debug\Calculator.xml
+c:\users\admin\documents\visual studio 2012\Projects\Calculator\Calculator\obj\Debug\MainWindow.baml
+c:\users\admin\documents\visual studio 2012\Projects\Calculator\Calculator\obj\Debug\Application.baml
+c:\users\admin\documents\visual studio 2012\Projects\Calculator\Calculator\obj\Debug\MainWindow.g.vb
+c:\users\admin\documents\visual studio 2012\Projects\Calculator\Calculator\obj\Debug\Application.g.vb
+c:\users\admin\documents\visual studio 2012\Projects\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.cache
+c:\users\admin\documents\visual studio 2012\Projects\Calculator\Calculator\obj\Debug\Calculator.g.resources
+c:\users\admin\documents\visual studio 2012\Projects\Calculator\Calculator\obj\Debug\Calculator.Resources.resources
+c:\users\admin\documents\visual studio 2012\Projects\Calculator\Calculator\obj\Debug\Calculator.vbproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2012\Projects\Calculator\Calculator\obj\Debug\Calculator.exe
+c:\users\admin\documents\visual studio 2012\Projects\Calculator\Calculator\obj\Debug\Calculator.xml
+c:\users\admin\documents\visual studio 2012\Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
