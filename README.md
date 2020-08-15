@@ -1,5 +1,5 @@
 # CalculadoraVb
-calculadora sencilla con operaciones basicas
+calculadora sencilla con operaciones basicas y diseño similar a la calculadora de Windows 7
 <html>
 <center>
   <div>
